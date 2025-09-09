@@ -16,7 +16,7 @@ The system is designed for maintainability, observability, and scalability.
 
 2. **Clone the repository**
    ```bash
-   git clone 
+   git clone https://github.com/cotuk3/TaskManager.git
    cd task-manager
   
 
